@@ -1,0 +1,45 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "student_name": "Hiệp",
+      "email": "hiepduong0409@gmail.com",
+      "address": "Hà Nội",
+      "phone": "0966926506",
+      "status": true,
+      "create_at": "2024-10-10"
+    }
+  ],
+  "learners": [
+    {
+      "id": 1,
+      "student_name": "Dương Sỹ Hiệp",
+      "email": "duongsyhiep@example.com",
+      "address": "hn"
+    },
+    {
+      "id": 2,
+      "student_name": "Nguyễn Hoàng Long",
+      "email": "nguyenhoanglong@example.com",
+      "address": "ht"
+    },
+    {
+      "id": 3,
+      "student_name": "Lê Văn C",
+      "email": "levanc@example.com",
+      "address": "hg"
+    },
+    {
+      "id": 4,
+      "student_name": "Phạm Thị D",
+      "email": "phamthid@example.com",
+      "address": "bc"
+    },
+    {
+      "id": 5,
+      "student_name": "Đỗ Văn E",
+      "email": "dovane@example.com",
+      "address": "yb"
+    }
+  ]
+}
